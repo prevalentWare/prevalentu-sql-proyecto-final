@@ -98,9 +98,7 @@ Una vez termines de importar tus datos, explora la información y la base de dat
 
 Dichas 27 preguntas serán evaluadas, y deberás ingresar las respuestas a cada una de estas preguntas en [este formulario](https://forms.office.com/r/CU5RKgwTrD).
 
-Te recordamos que es necesario un puntaje de, al menos, 85% para pasar con éxito el curso. Adicionalmente, el formulario no calcula auotmáticamente tu nota. Una vez lo llenes, necesitaremos un tiempo para revisar tu evaluación.
-
-Finalmente, recordamos que PrevalentU es un ejercicio académico compuesto por profesionales. Esperamos que este sea un trabajo honesto, individual y ejecutado 100% por tí.
+Finalmente, recordamos que PrevalentU es un ejercicio académico compuesto por profesionales. Esperamos que este sea un trabajo honesto, individual, y ejecutado 100% por tí.
 
 ### Queries generales (50%)
 
