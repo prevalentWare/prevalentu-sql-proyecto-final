@@ -81,7 +81,7 @@ El gerente de la empresa requiere ciertas informaciones históricas sobre el des
 
 ## Fuente de los datos
 
-- [DDL]()
+- [DDL](https://github.com/prevalentWare/prevalentu-sql-proyecto-final/blob/main/ddl.sql)
 - [Usuarios](https://prevalentware.sharepoint.com/:x:/s/PrevalentWareUniversity/ER57cZ_zqpNMtMjhB0j7NgYBRf2Py2Cm_DqvpCuHSZFP_w?e=2oewfp)
 - [Clientes](https://prevalentware.sharepoint.com/:x:/s/PrevalentWareUniversity/ETvBWFtF8vJBm1S7fLyrOmMBvGus_HyzKriLqe1Szc_47Q?e=WxZy9e)
 - [Despachos](https://prevalentware.sharepoint.com/:x:/s/PrevalentWareUniversity/EZwEoFGadplDiRZ9jneeYvQBXfbgGSC68X-mcrkk-kjfpA?e=MhGZJV)
