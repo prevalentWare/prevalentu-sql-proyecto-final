@@ -78,5 +78,5 @@ CREATE TABLE public.recogida (
 	id_despacho text NULL,
 	CONSTRAINT recogida_pkey PRIMARY KEY (id),
 	CONSTRAINT recogida_id_despacho_fkey FOREIGN KEY (id_despacho) REFERENCES public.despacho(id) ON DELETE SET NULL ON UPDATE CASCADE,
-	CONSTRAINT recogida_id_lote_fkey FOREIGN KEY (id_lote) REFERENCES public.lote(id) ON DELETE RESTRICT ON UPDATE CASCADE,
+	CONSTRAINT recogida_id_lote_fkey FOREIGN KEY (id_lote) REFERENCES public.lote(id) ON DELETE RESTRICT ON UPDATE CASCADES
 );
